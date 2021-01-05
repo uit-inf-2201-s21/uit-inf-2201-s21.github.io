@@ -8,10 +8,7 @@ title: Home
 * [Administrative course information](https://uit.no/utdanning/emner/emne?p_document_id=696345)
 * [Course GitHub organization](https://github.com/uit-inf-2201-s21/)
 * [Timeplan](http://timeplan.uit.no/emne_timeplan.php?sem=21v&module[]=INF-2201-1#week-1) with information about the rooms allocated to the lectures and colloquium groups.
-
-We also have a Discord team.
-
-Timeplan has an overview of the rooms that we have available: 
+* We also have a Discord team.
 
 ## Staff
 
