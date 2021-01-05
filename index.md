@@ -56,7 +56,7 @@ Timeplan has an overview of the rooms that we have available: http://timeplan.ui
 | L19 | 25.03.21 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
 | L20 | 08.04.21 | Bonus | TBA | Lars Ailo |
 | P5  | 14.04.21 | Precept 5 | - | TBD |
-| P6  | 05.05.21 | Precept 5 | - | TBD
+| P6  | 05.05.21 | Precept 6 | - | TBD
 
 
 ## Readings
