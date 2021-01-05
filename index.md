@@ -52,9 +52,10 @@ Timeplan has an overview of the rooms that we have available: http://timeplan.ui
 | L16 | 11.03.21 | Storage systems | MOS 5.4 | Lars Ailo |
 | P4  | 17.03.21 | Precept 4 | - | TBD |
 | L17 | 18.03.21 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
-| L18 | 23.03.20 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
-| L19 | 25.03.20 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
-| L20 | 30.03.20 | Bonus | TBA | Lars Ailo |
+| L18 | 23.03.21 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
+| L19 | 25.03.21 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+<!-- Easter: 1-5 Apr. -->
+| L20 | 08.04.21 | Bonus | TBA | Lars Ailo |
 | P5  | 14.04.21 | Precept 5 | - | TBD |
 | P6  | 05.05.21 | Precept 5 | - | TBD
 
