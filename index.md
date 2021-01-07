@@ -75,9 +75,9 @@ Note that we do not make these assignments publicly available.
 
 | Project |	Precepts | Design reviews | Due | Subject|
 |---------|----------|-------------|----------|---------|
-| P1      | 13.01.21 | 25-27.01.21 | 01.02.21 23:59 | Boot-up mechanism |
-| P2      | 03.02.21 | 08-10.02.21 | 22.02.21 23:59 | Non-preemptive scheduling |
-| P3      | 24.02.21 | 01-03.03.21 | 15.03.21 23:59 | Preemptive scheduling |
-| P4      | 17.03.21 | 22-24.03.21 | 12.04.21 23:59 | IPC and process management |
-| P5      | 14.04.21 | 19-22.04.21 | 03.05.21 23:59 | Virtual memory |
-| P6      | 05.05.21 | 10-12.05.21 | 31.05.21 23:59 | File system |
+| P1      | 13.01.21 | 25-27.01.21 | 01.02.21 10:00 | Boot-up mechanism |
+| P2      | 03.02.21 | 08-10.02.21 | 22.02.21 10:00 | Non-preemptive scheduling |
+| P3      | 24.02.21 | 01-03.03.21 | 15.03.21 10:00 | Preemptive scheduling |
+| P4      | 17.03.21 | 22-24.03.21 | 12.04.21 10:00 | IPC and process management |
+| P5      | 14.04.21 | 19-22.04.21 | 03.05.21 10:00 | Virtual memory |
+| P6      | 05.05.21 | 10-12.05.21 | 31.05.21 10:00 | File system |
