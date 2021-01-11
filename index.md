@@ -65,6 +65,7 @@ Mandatory:
 Suggested additional readings:
 
 1. [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/). Remzi H. Arpaci-Dusseau and Andrea C. Arpaci-Dusseau.
+2. [Operating System Concepts](https://www.amazon.com/Operating-System-Concepts-Abraham-Silberschatz/dp/0470128720) by Abraham Silberschatz, Peter B. Galvin, Greg Gagne
 
 
 ## Mandatory assignments
