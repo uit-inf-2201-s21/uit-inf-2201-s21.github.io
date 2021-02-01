@@ -70,7 +70,7 @@ Suggested additional readings:
 
 ## Mandatory assignments
 
-Note! The UiT rules regarding cheating on exams *Source use, plagiarism and cheating on exam / mandatory assignments* (["in Norwegian"](https://uit.no/regelverk#v-pills-668459) and [in English](https://uit.no/regelverk#v-pills-668461)) applies for all projects.
+Note! The UiT rules regarding cheating on exams *Source use, plagiarism and cheating on exam / mandatory assignments* (in [Norwegian](https://uit.no/regelverk#v-pills-668459) and in [English](https://uit.no/regelverk#v-pills-668461)) applies for all projects.
 
 Note that we do not make these assignments publicly available.
 
