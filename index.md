@@ -35,7 +35,7 @@ title: Home
 | L4  | 21.01.21 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
 | L5  | 26.01.21 | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
 | L6  | 28.01.21 | Preemtive Scheduling, Mutual Exclusion | MOS 2.2 - 2.3.6 | Tore |
-| P2  | 03.02.21 | Precept 2 | - | TBD |
+| P2  | 03.02.21 | Precept 2 | - | Lars Ailo |
 | L7  | 04.02.21 | Semaphores | MOS 2.5 | Tore |
 | L8  | 09.02.21 | Monitors | MOS 2.3.4 - 2.3.7 | Phuong |
 | L9  | 11.02.21 | Message passing | MOS 2.3.8 | Phuong |
@@ -70,7 +70,7 @@ Suggested additional readings:
 
 ## Mandatory assignments
 
-Note! The UiT rules regarding cheating on exams ["Kildebruk, plagiering og fusk på eksamen"](https://uit.no/om/enhet/artikkel?p_document_id=473719&p_dimension_id=88138&men=28714) (in Norwegian only) applies for all projects.
+Note! The UiT rules regarding cheating on exams *Source use, plagiarism and cheating on exam / mandatory assignments* (["in Norwegian"](https://uit.no/regelverk#v-pills-668459) and [in English](https://uit.no/regelverk#v-pills-668461) applies for all projects.
 
 Note that we do not make these assignments publicly available.
 
