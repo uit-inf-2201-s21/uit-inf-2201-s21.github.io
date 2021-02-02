@@ -37,13 +37,13 @@ title: Home
 | L6  | 28.01.21 | Preemtive Scheduling, Mutual Exclusion | MOS 2.2 - 2.3.6 | Tore |
 | P2  | 03.02.21 | Precept 2 | - | Lars Ailo |
 | L7  | 04.02.21 | Semaphores | MOS 2.5 | Tore |
-| L8  | 09.02.21 | Monitors | MOS 2.3.4 - 2.3.7 | Phuong |
+| L8  | 10.02.21 | Monitors | MOS 2.3.4 - 2.3.7 | Phuong |
 | L9  | 11.02.21 | Message passing | MOS 2.3.8 | Phuong |
-| L10 | 16.02.21 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Phuong |
+| L10 | 17.02.21 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Phuong |
 | L11 | 18.02.21 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Phuong |
 | P3  | 24.02.21 | Precept 3 | - | TBD |
 | L12 | 25.02.21 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Phuong |
-| L13 | 02.03.21 | Paging and VM Design | MOS 3.4 | Phuong |
+| L13 | 03.03.21 | Paging and VM Design | MOS 3.4 | Phuong |
 | L14 | 04.03.21 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Phuong |
 | L15 | 09.03.21 | I/O Devices and Drivers | MOS 5 | Lars Ailo |
 | L16 | 11.03.21 | Storage systems | MOS 5.4 | Lars Ailo |
