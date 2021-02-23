@@ -41,19 +41,19 @@ title: Home
 | L9  | 11.02.21 | Message passing | MOS 2.3.8 | Phuong |
 | L10 | 17.02.21 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Phuong |
 | L11 | 18.02.21 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Phuong |
-| P3  | 24.02.21 | Precept 3 | - | TBD |
+| P3  | 24.02.21 | Precept 3 | - | Lars Ailo |
 | L12 | 25.02.21 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Phuong |
 | L13 | 03.03.21 | Paging and VM Design | MOS 3.4 | Phuong |
 | L14 | 04.03.21 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Phuong |
 | L15 | 09.03.21 | I/O Devices and Drivers | MOS 5 | Lars Ailo |
-| L16 | 11.03.21 | Storage systems | MOS 5.4 | Lars Ailo |
-| P4  | 17.03.21 | Precept 4 | - | TBD |
-| L17 | 18.03.21 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
-| L18 | 23.03.21 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
-| L19 | 25.03.21 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
-| L20 | 08.04.21 | Bonus | TBA | Lars Ailo |
-| P5  | 14.04.21 | Precept 5 | - | TBD |
-| P6  | 05.05.21 | Precept 6 | - | TBD
+| L16 | 16.03.21 | Storage systems | MOS 5.4 | Lars Ailo |
+| P4  | 17.03.21 | Precept 4 | - | Lars Ailo |
+| L17 | 06.04.21 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
+| L18 | 13.04.21 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
+| P5  | 14.04.21 | Precept 5 | - | Lars Ailo |
+| L19 | 20.04.21 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| L20 | 27.04.21 | Bonus | TBA | Lars Ailo |
+| P6  | 05.05.21 | Precept 6 | - | Lars Ailo |
 
 
 ## Readings
