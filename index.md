@@ -29,25 +29,25 @@ title: Home
 | Lecture | Date | Subject	    | Readings  | Lecturer  |
 |---------|------|--------------|-----------|-----------|
 | L1  | 12.01.21 | Introduction | MOS 1.1 - 1.3  | Tore |
-| P1  | 13.01.21 | Precept 1    | -              | Lars Ailo |
+| P1  | 13.01.21 | Precept 1 (slides are in project repository)   | -              | Lars Ailo |
 | L2  | 14.01.21 | IA32 OS Support and Protection| MOS 1.4 - 1.5 | Tore |
 | L3  | 19.01.21 | OS Structure | MOS 1.6 - 1.7; 12 | Tore |
 | L4  | 21.01.21 | Processes, Non-Preemtive Scheduling | MOS 2.1, 2.2 | Tore |
 | L5  | 26.01.21 | Threads, Critical Sections | MOS 2.4 - 2.5 | Tore |
 | L6  | 28.01.21 | Preemtive Scheduling, Mutual Exclusion | MOS 2.2 - 2.3.6 | Tore |
-| P2  | 03.02.21 | Precept 2 | - | Lars Ailo |
+| P2  | 03.02.21 | Precept 2 (slides are in project repository) | - | Lars Ailo |
 | L7  | 04.02.21 | Semaphores | MOS 2.5 | Tore |
 | L8  | 10.02.21 | Monitors | MOS 2.3.4 - 2.3.7 | Phuong |
 | L9  | 11.02.21 | Message passing | MOS 2.3.8 | Phuong |
 | L10 | 17.02.21 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Phuong |
 | L11 | 18.02.21 | CPU Scheduling and Deadlocks | MOS 2.4, 6 | Phuong |
-| P3  | 24.02.21 | Precept 3 | - | Lars Ailo |
+| P3  | 24.02.21 | Precept 3 (slides are in project repository) | - | Lars Ailo |
 | L12 | 25.02.21 | Adress Translation, Paging | MOS 3.1 - 3.3, 3.7| Phuong |
 | L13 | 03.03.21 | Paging and VM Design | MOS 3.4 | Phuong |
 | L14 | 04.03.21 | Paging and VM Design (continued) | MOS 3.5 - 3.9 | Phuong |
-| L15 | 16.03.21 | I/O Devices and Drivers | MOS 5 | Lars Ailo |
-| P4  | 17.03.21 | Precept 4 | - | Lars Ailo |
-| L16 | 06.04.21 | Storage systems | MOS 5.4 | Lars Ailo |
+| L15 | 16.03.21 | [I/O Devices and Drivers](https://docs.google.com/presentation/d/1GWd-p8xIqz_yQH7Ohy-VeDNIhURLExQKmurXayztBLs/edit?usp=sharing) | MOS 5 | Lars Ailo |
+| P4  | 17.03.21 | Precept 4 (slides are in project repository)| - | Lars Ailo |
+| L16 | 06.04.21 | [Storage systems](https://docs.google.com/presentation/d/19bSzvq3f74RLi7w7EO25B8-ZjzVXVSTL2bE6KJuCAVA/edit?usp=sharing) | MOS 5.4 | Lars Ailo |
 | L17 | 13.04.21 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
 | P5  | 14.04.21 | Precept 5 | - | Lars Ailo |
 | L18 | 20.04.21 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
