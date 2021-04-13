@@ -48,8 +48,8 @@ title: Home
 | L15 | 16.03.21 | [I/O Devices and Drivers](https://docs.google.com/presentation/d/1GWd-p8xIqz_yQH7Ohy-VeDNIhURLExQKmurXayztBLs/edit?usp=sharing) | MOS 5 | Lars Ailo |
 | P4  | 17.03.21 | Precept 4 (slides are in project repository)| - | Lars Ailo |
 | L16 | 06.04.21 | [Storage systems](https://docs.google.com/presentation/d/19bSzvq3f74RLi7w7EO25B8-ZjzVXVSTL2bE6KJuCAVA/edit?usp=sharing) | MOS 5.4 | Lars Ailo |
-| L17 | 13.04.21 | File Systems I | MOS 4.1 - 4.6 | Lars Ailo |
-| P5  | 14.04.21 | Precept 5 | - | Lars Ailo |
+| L17 | 13.04.21 | [File Systems](https://docs.google.com/presentation/d/16MLLc3fjYt94_fu66w_9-I_7-ZiosdtwbtAUkfXHyxI/edit?usp=sharing) | MOS 4.1 - 4.6 | Lars Ailo |
+| P5  | 14.04.21 | Precept 5 (slides are in project repository) | - | Lars Ailo |
 | L18 | 20.04.21 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
 | L19 | 27.04.21 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
 | P6  | 05.05.21 | Precept 6 | - | Lars Ailo |
