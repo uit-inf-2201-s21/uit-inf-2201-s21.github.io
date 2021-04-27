@@ -51,7 +51,7 @@ title: Home
 | L17 | 13.04.21 | [File Systems](https://docs.google.com/presentation/d/16MLLc3fjYt94_fu66w_9-I_7-ZiosdtwbtAUkfXHyxI/edit?usp=sharing) | MOS 4.1 - 4.6 | Lars Ailo |
 | P5  | 14.04.21 | Precept 5 (slides are in project repository) | - | Lars Ailo |
 | L18 | 20.04.21 | File Systems (continued) | MOS 4.1 - 4.6 | Lars Ailo |
-| L19 | 27.04.21 | Virtual Machines and Containers | MOS 7 | Lars Ailo |
+| L19 | 27.04.21 | [Virtual machines, containers, and serverless computing](https://docs.google.com/presentation/d/1oaIaRE9GHLwnKiG4hnUODsZlMEP3P9a0oZ9asnvhvbk/edit#slide=id.p1) | MOS 7 | Lars Ailo |
 | P6  | 05.05.21 | Precept 6 | - | Lars Ailo |
 
 
